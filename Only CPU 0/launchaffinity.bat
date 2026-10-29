@@ -1,0 +1,1 @@
+%ComSpec% /C Start /Normal /Affinity fffffffe DarkSoulsIII.exe
